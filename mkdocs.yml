@@ -31,12 +31,6 @@ theme:
     - content.code.copy
     - content.code.select
     
-nav:
-  - Home: index.md
-  - Linux Basics:
-    - File Permissions: linux-basics/file-permissions.md
-  - Advanced Pi Setup:
-    - Headless Boot: advanced/headless.md
 
 markdown_extensions:
   - attr_list

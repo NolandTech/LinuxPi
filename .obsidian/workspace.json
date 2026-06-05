@@ -191,8 +191,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6cb77cd9eb8f90a",
+  "active": "4c7258eb232fc5b2",
   "lastOpenFiles": [
+    "docs/linux-basics/Update & Upgrade - Package and System.md",
+    "docs/linux-basics/Smba config.md",
+    "docs/linux-basics/List of Shell Commands.md",
+    "docs/linux-basics/List Drives.md",
+    "docs/linux-basics/Generate and install SSH keys.md",
+    "docs/linux-basics/Crontab.md",
+    "docs/linux-basics/Common terminal shorcuts.md",
+    "docs/linux-basics/Close terminal and keep process running.md",
+    "docs/linux-basics/Clean up Linux system.md",
+    "docs/linux-basics/Change DNS Server on Linux.md",
     "docs/stylesheets/extra.css",
     "docs/stylesheets/New folder",
     "docs/stylesheets",
@@ -208,7 +218,6 @@
     "docs/CNAME",
     "linux-basics",
     "docs/advanced",
-    "docs/linux-basics",
     "docs/index.md.md"
   ]
 }
