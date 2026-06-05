@@ -1,1 +1,1 @@
-linuxpi.ca
+www.linuxpi.ca
