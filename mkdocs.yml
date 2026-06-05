@@ -11,14 +11,14 @@ theme:
     text: Roboto
     code: Roboto Mono
   palette:
-  # Dark Mode
+    # Dark Mode
     - scheme: slate  # Enable dark mode
       toggle:
         icon: material/weather-sunny
         name: Dark mode
       primary: green
       accent: deep purple
-  # Light Mode
+    # Light Mode
     - scheme: default  # Enable light mode
       toggle:
         icon: material/weather-night
@@ -29,7 +29,7 @@ theme:
     - content.code.copy
     - content.code.select
     
- nav:
+nav:
   - Home: index.md
   - Linux Basics:
     - Introduction: linux-basics/intro.md
