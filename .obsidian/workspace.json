@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "70672102ca756c89",
+        "id": "48a9d2a28bb14ad4",
         "type": "tabs",
         "children": [
           {
-            "id": "52d99926ea1fc57c",
+            "id": "c7cbec88afb025b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
-                "mode": "preview",
+                "file": "docs/advanced/headless.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "headless"
             }
           }
         ]
@@ -191,14 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b83b920ecc53b92",
+  "active": "c7cbec88afb025b6",
   "lastOpenFiles": [
-    "docs/CNAME.md",
     "docs/index.md",
+    "docs/linux-basics/User Managment.md",
+    "docs/linux-basics/file-permissions.md",
+    "docs/CNAME.md",
     "docs/CNAME",
     "docs/advanced/headless.md",
-    "docs/linux-basics/file-permissions.md",
-    "docs/linux-basics/User Managment.md",
     "linux-basics",
     "docs/advanced",
     "docs/linux-basics",
