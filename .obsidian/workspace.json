@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/linux-basics/User Managment.md",
+                "file": "docs/CNAME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User Managment"
+              "title": "CNAME"
             }
           }
         ]
@@ -194,8 +194,9 @@
   "active": "4c7258eb232fc5b2",
   "lastOpenFiles": [
     "docs/index.md",
-    "docs/linux-basics/file-permissions.md",
+    "docs/CNAME.md",
     "docs/linux-basics/User Managment.md",
+    "docs/linux-basics/file-permissions.md",
     "docs/advanced/headless.md",
     "docs/CNAME.md",
     "docs/CNAME",
