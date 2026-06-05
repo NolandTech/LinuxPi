@@ -40,4 +40,6 @@ graph LR
   A[Cloudflare] --> B[Nginx Proxy]
   B --> C[Pi-hole]
   B --> D[Watchtower]
-*Last updated: June 2026*
+
+
+```
