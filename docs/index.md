@@ -8,9 +8,9 @@ This site is my personal knowledge base for managing Linux-based Raspberry Pi pr
 
 Need to jump to a specific task? Use these links:
 
-* [**File Permissions**](file-permissions.md) - Learn how to change ownership and access.
-* [**Headless Boot Setup**](headless.md) - How to set up a Pi without a monitor.
-* [**User Management**](User%20Managment.md) - Adding/removing users and sudoers.
+* [**File Permissions**](linux-basics/file-permissions.md) - Learn how to change ownership and access.
+* [**Headless Boot Setup**](advanced/headless.md) - How to set up a Pi without a monitor.
+* [**User Management**](linux-basics/User%20Managment.md) - Adding/removing users and sudoers.
 
 ---
 
