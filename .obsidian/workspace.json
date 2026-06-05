@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1167c9151d3ccb7a",
+        "id": "1298518860917594",
         "type": "tabs",
         "children": [
           {
-            "id": "e7fedc54d97e71e0",
+            "id": "f6e87c2f384e29f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -157,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "b6cb77cd9eb8f90a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,11 +187,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7fedc54d97e71e0",
+  "active": "f6e87c2f384e29f7",
   "lastOpenFiles": [
+    "docs/linux-basics",
+    "docs/assets",
+    "Untitled.base",
+    "docs/index.md",
     "docs/index.md.md",
     "docs"
   ]
