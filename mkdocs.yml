@@ -3,6 +3,7 @@ site_url: http://www.linuxpi.ca
 
 theme:
   name: material
+  copyright: © 2026 NolandTech
   logo: assets/images/favicon.png
   favicon: assets/favicon.ico
   # icon:
