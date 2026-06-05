@@ -34,7 +34,6 @@ theme:
 nav:
   - Home: index.md
   - Linux Basics:
-    - Introduction: linux-basics/intro.md
     - File Permissions: linux-basics/file-permissions.md
   - Advanced Pi Setup:
     - Headless Boot: advanced/headless.md
@@ -67,7 +66,10 @@ markdown_extensions:
           
 extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
-  - https://unpkg.com/mermaid/dist/mermaid.initialize.js       
+  - https://unpkg.com/mermaid/dist/mermaid.initialize.js      
+
+extra_css:
+  - stylesheets/extra.css  
 
 plugins:
   - search

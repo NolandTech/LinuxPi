@@ -16,7 +16,7 @@ Need to jump to a specific task? Use these links:
 
 <div class="grid cards" markdown>
 
--   **File Permissions**
+-   **File Permissions🗂️** 
 
     ---
 
@@ -24,7 +24,7 @@ Need to jump to a specific task? Use these links:
 
     [View Guide](linux-basics/file-permissions.md)
 
--   **Headless Boot**
+-   **Headless Boot:simple-mcdonalds:🤯**
 
     ---
 
