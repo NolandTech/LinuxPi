@@ -24,7 +24,7 @@ Need to jump to a specific task? Use these links:
 
     [View Guide](linux-basics/file-permissions.md)
 
--   **Headless Boot:simple-mcdonalds:🤯**
+-   **Headless Boot:simple-mcdonalds:{ .mcdonalds }🤯**
 
     ---
 

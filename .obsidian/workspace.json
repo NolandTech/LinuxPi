@@ -191,8 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c7258eb232fc5b2",
+  "active": "b6cb77cd9eb8f90a",
   "lastOpenFiles": [
+    "docs/stylesheets/extra.css",
+    "docs/stylesheets/New folder",
+    "docs/stylesheets",
+    "docs/New folder",
     "overrides/main.html",
     "overrides",
     "New folder",
@@ -205,9 +209,6 @@
     "linux-basics",
     "docs/advanced",
     "docs/linux-basics",
-    "docs/assets",
-    "Untitled.base",
-    "docs/index.md.md",
-    "docs"
+    "docs/index.md.md"
   ]
 }
