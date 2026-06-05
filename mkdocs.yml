@@ -62,6 +62,10 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
+          
+extra_javascript:
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - https://unpkg.com/mermaid/dist/mermaid.initialize.js       
 
 plugins:
   - search
