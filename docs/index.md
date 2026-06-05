@@ -22,7 +22,7 @@ Need to jump to a specific task? Use these links:
 
     Learn how to change ownership and access.
 
-    [View Guide](file-permissions.md)
+    [View Guide](linux-basics/file-permissions.md)
 
 -   **Headless Boot**
 
@@ -30,7 +30,7 @@ Need to jump to a specific task? Use these links:
 
     How to set up a Pi without a monitor.
 
-    [View Guide](headless.md)
+    [View Guide](advanced/headless.md)
 
 </div>
 
