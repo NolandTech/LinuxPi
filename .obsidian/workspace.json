@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -205,8 +205,8 @@
   "active": "d9aa07b16d053b4f",
   "lastOpenFiles": [
     "docs/linux-basics/Update & Upgrade - Package and System.md",
-    "linux-basics/Update %26 Upgrade - Package and System.md",
     "docs/index.md",
+    "linux-basics/Update %26 Upgrade - Package and System.md",
     "linux-basics",
     "docs/linux-basics/User Managment.md",
     "static-ip.md",
