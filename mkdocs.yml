@@ -5,8 +5,8 @@ theme:
   name: material
   copyright: © 2026 NolandTech
   custom_dir: overrides
-  logo: assets/images/favicon.png
-  favicon: assets/favicon.ico
+  logo: https://raw.githubusercontent.com/NolandTech/Images-/refs/heads/main/linuxpilogo3.png
+  favicon: https://raw.githubusercontent.com/NolandTech/Images-/refs/heads/main/linuxpi-favicon-color.ico
   # icon:
   #   logo: fontawesome/solid/jedi
   font:

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2939a3b0588b7c2e",
+        "id": "9d578a1b0050e44d",
         "type": "tabs",
         "children": [
           {
-            "id": "4c7258eb232fc5b2",
+            "id": "d9aa07b16d053b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -171,6 +171,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "09930071773c841a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 5
@@ -188,36 +198,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4c7258eb232fc5b2",
+  "active": "d9aa07b16d053b4f",
   "lastOpenFiles": [
     "docs/linux-basics/Update & Upgrade - Package and System.md",
+    "linux-basics/Update %26 Upgrade - Package and System.md",
+    "docs/index.md",
+    "linux-basics",
+    "docs/linux-basics/User Managment.md",
+    "static-ip.md",
+    "copilot/copilot-conversations/Model_Request_Failure@20260605_031016.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "docs/linux-basics/Smba config.md",
     "docs/linux-basics/List of Shell Commands.md",
     "docs/linux-basics/List Drives.md",
     "docs/linux-basics/Generate and install SSH keys.md",
     "docs/linux-basics/Crontab.md",
-    "docs/linux-basics/Common terminal shorcuts.md",
-    "docs/linux-basics/Close terminal and keep process running.md",
-    "docs/linux-basics/Clean up Linux system.md",
-    "docs/linux-basics/Change DNS Server on Linux.md",
     "docs/stylesheets/extra.css",
     "docs/stylesheets/New folder",
     "docs/stylesheets",
     "docs/New folder",
     "overrides/main.html",
-    "overrides",
-    "New folder",
-    "docs/advanced/headless.md",
-    "docs/linux-basics/file-permissions.md",
-    "docs/linux-basics/User Managment.md",
-    "docs/index.md",
-    "docs/CNAME.md",
-    "docs/CNAME",
-    "linux-basics",
-    "docs/advanced",
-    "docs/index.md.md"
+    "overrides"
   ]
 }
